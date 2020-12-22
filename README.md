@@ -9,6 +9,7 @@ Managerul liceului trebuie să selecteze o mulțime cât mai amplă de eveniment
 
 ## Descrierea algoritmului
 
+![imag1](https://user-images.githubusercontent.com/76489349/102922461-b9ec8200-4496-11eb-907c-3c1fc8a43474.png)
 
 <ol>
 <li> P1 -  sortăm activitățile după ora terminării lor;
