@@ -22,4 +22,6 @@ Managerul liceului trebuie să selecteze o mulțime cât mai amplă de eveniment
 
 ## ScreenShoturi
 
+![111](https://user-images.githubusercontent.com/76489349/102923670-cb368e00-4498-11eb-98ba-c1333b7fcebd.jpg)
+
 ## Concluzii
