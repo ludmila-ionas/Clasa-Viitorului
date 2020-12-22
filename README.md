@@ -18,6 +18,8 @@ Managerul liceului trebuie să selecteze o mulțime cât mai amplă de eveniment
 <li> P4 - dacă tentativa de mai sus a eşuat (nu am găsit o astfel de activitate) algoritmul se termină, altfel se programează activitatea găsită şi algoritmul se reia de la pasul 3.
 </ol>
 
+![imag2](https://user-images.githubusercontent.com/76489349/102922628-fddf8700-4496-11eb-9c77-84e21406d22a.png)
+
 ## ScreenShoturi
 
 ## Concluzii
