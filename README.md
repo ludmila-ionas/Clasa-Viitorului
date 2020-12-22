@@ -25,7 +25,7 @@ Managerul liceului trebuie să selecteze o mulțime cât mai amplă de eveniment
 ![111](https://user-images.githubusercontent.com/76489349/102923670-cb368e00-4498-11eb-98ba-c1333b7fcebd.jpg)
 
 ## Concluzii
-Metoda de programare Greedy se aplică problemelor de optimizare. Aceasta metoda constă în faptul că se construieşte solutia optimă pas cu pas, la fiecare pas fiind selectat în solutie elementul care pare „cel mai bun/cel mai optim” la momentul respectiv, în speranta că această alegere locală va conduce la optimul global.
+Metoda de programare Greedy se aplică problemelor de optimizare. Aceasta metoda constă în faptul că se construieşte solutia optimă pas cu pas, la fiecare pas fiind selectat în solutie elementul care pare „cel mai bun/cel mai optim” la momentul respectiv, în speranța că această alegere locală va conduce la optimul global.
 <ol>
 <li> Nu tuturor problemelor li se pot aplica algoritmi de tip Greedy;
 <li> Pentru problemele pentru care nu se cunosc algoritmi care necesită timp polinomial, se caută soliţii, chiar dacă nu optime, atunci apropiate de acestea, dar care au fost obţinute în timp util;
